@@ -1,0 +1,34 @@
+_repo: Onnellisten-saari-Kaksi-kertomusta-kokoelmasta-Svenska-oden-och-afventyr-_54044
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Ahma, Ilmari
+    birthdate: 1884
+    deathdate: 1933
+    gutenberg_agent_id: '48168'
+    url: http://www.gutenberg.org/2009/agents/48168
+creator:
+  author:
+    agent_name: Strindberg, August
+    alias: Strindberg, Johan August
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '1609'
+    url: http://www.gutenberg.org/2009/agents/1609
+    wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
+description: ''
+gutenberg_issued: '2017-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54044'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- GITenberg
+tableOfContents: August Strindberg -- Onnellisten saari -- Suojelijoita.
+title: 'Onnellisten saari: Kaksi kertomusta kokoelmasta ''Svenska öden och äfventyr'''
+url: http://www.gutenberg.org/ebooks/54044
